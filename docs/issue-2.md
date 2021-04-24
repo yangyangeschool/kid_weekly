@@ -1,4 +1,4 @@
-# 小孩週報 （第2期）：手機離越遠，專注力越高
+# 小孩週報 （第 2 期）：手機離越遠，專注力越高
 
 - [腦力流失：僅僅只是手機出現，就會分散專注力](https://blog.rize.io/blog/phones-and-apps-reduce-your-ability-to-focus-even-when-they-dont-distract-you) (英)
 - [研究：只要手機在視線範圍，就足以嚴重削弱我們的專注力和記憶力](https://www.bnext.com.tw/article/45098/smartphone-may-cause-brain-drain)

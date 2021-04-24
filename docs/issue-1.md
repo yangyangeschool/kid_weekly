@@ -1,4 +1,4 @@
-# 小孩週報 （第１期）：為什麼要睡覺
+# 小孩週報 （第 1 期）：為什麼要睡覺
 
 - [我們為什麼需要睡眠？(Ted 演講 中文字幕)](https://youtu.be/QfUx5xBHTbo)
 - [睡眠有理，再添一記(Ted演講 中文字幕)](https://youtu.be/eWHkZY40DRs) 
