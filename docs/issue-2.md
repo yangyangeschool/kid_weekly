@@ -1,3 +1,7 @@
+---
+tags: 小孩週報
+---
+
 # 小孩週報 （第 2 期）：手機離越遠，專注力越高
 
 - [腦力流失：僅僅只是手機出現，就會分散專注力](https://blog.rize.io/blog/phones-and-apps-reduce-your-ability-to-focus-even-when-they-dont-distract-you) (英)
