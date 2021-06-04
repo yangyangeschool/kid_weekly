@@ -1,10 +1,14 @@
 # 小孩週報
 
-仿[科技爱好者周刊](https://github.com/ruanyf/weekly)，記錄每週值得分享給小孩子的內容，週日發刊。
+仿[科技爱好者周刊](https://github.com/ruanyf/weekly)，記錄每週值得分享給小孩子的內容，週末發刊。
 
 歡迎投稿，如果有您喜歡的，請[提交 issue](https://github.com/yangyangeschool/kid_weekly/issues) 。
 
 ## 2021
+
+**六月**
+
+- 第 9 期：[態度決定命運](./docs/issue-9.md)
 
 **五月**
 
