@@ -8,7 +8,7 @@ tags: 小孩週報
 
 照片來源：[Fagradalsfjall Iceland. Here’s my favorite shot from my recent trip. ](https://www.reddit.com/r/EarthPorn/comments/nv71gx/fagradalsfjall_iceland_heres_my_favorite_shot/)
 
-冰島是一個多火山、地質活動頻繁的國家，今年 3 月 19 日 Fagradalsfjall 法格拉達爾火山噴發，那時已有一系列報導：[巨人末世與岩漿熱狗：冰島火山爆發的神話啟示錄](https://global.udn.com/global_vision/story/8662/5346243)。這陣一直有人去參觀拍攝，來看一些影片：
+冰島是一個多火山、地質活動頻繁的國家，今年 3 月 19 日 Fagradalsfjall 法格拉達爾火山噴發，那時已有一系列報導：[巨人末世與岩漿熱狗：冰島火山爆發的神話啟示錄](https://global.udn.com/global_vision/story/8662/5346243)。這陣子一直有人去參觀拍攝，來看一些影片：
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/A8K4OFo9_JE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
