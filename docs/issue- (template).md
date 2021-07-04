@@ -2,15 +2,15 @@
 tags: 小孩週報
 ---
 
-# 小孩週報 （第 1 期）：為什麼要睡覺
+# 小孩週報 （第 12 期）：
 
 本週主題
 
 ## 新聞
 
-### 新聞1：
+### 新聞1：[打完新冠疫苗後可以揉嗎？施打前後你該注意的事](https://health.udn.com/health/story/121833/5546466?from=udn-referralnews_ch2artbottom)
 
-新聞內容
+
 
 ### 新聞2：
 

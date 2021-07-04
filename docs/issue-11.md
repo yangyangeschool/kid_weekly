@@ -9,7 +9,7 @@ tags: 小孩週報
 
 Family members of Ziona (R) poses for group photograph outside their  residence in Baktawng village in the northeastern Indian state of  Mizoram, October 7, 2011. Ziona has 39 wives, 94 children and 33  grandchildren. REUTERS/Adnan Abidi 
 
-你能想像，在印度有這麼一個人：[「世界最大家族」之主過世 留下39妻、94兒女及33孫](https://dq.yam.com/post.php?id=13976)。先不討論我們的法律問題，你能想像怎麼再一起生活嗎？
+你能想像，在印度有這麼一個人：[「世界最大家族」之主過世 留下39妻、94兒女及33孫](https://dq.yam.com/post.php?id=13976)。先不討論我們的法律問題，你能想像怎麼在一起生活嗎？
 
 ## 新聞
 
