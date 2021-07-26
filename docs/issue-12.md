@@ -34,12 +34,8 @@ tags: 小孩週報
 [跨性別女性參加女性賽事公平嗎？](https://jenniferliftforlife.com/2021/02/18/%e8%b7%a8%e6%80%a7%e5%88%a5%e5%a5%b3%e6%80%a7%e5%8f%83%e5%8a%a0%e5%a5%b3%e6%80%a7%e8%b3%bd%e4%ba%8b%e5%85%ac%e5%b9%b3%e5%97%8e%ef%bc%9f/)
 
 - 什麼是跨性別？
-
 - 為什麼會有爭議？
-
 - 你覺得在運動場上，男跨女還是女跨男的比賽比較有爭議？
-
-  
 
 ### 新聞2：[問題篇／學者抓病灶：受僱薪資低 翻身不易](https://vision.udn.com/vision/story/122264/5553621?from=udn_ch2_menu_v2_main_index)
 
@@ -48,8 +44,6 @@ tags: 小孩週報
 > 天氣晴朗的時候，別忘了儲備雨天需要的糧食。引申為平時要儲蓄，以備不時之需。與「未雨綢繆」義近。
 >
 > ![台灣俚語：好天著存雨來糧](https://i.imgur.com/vcTbQqI.jpg)
-
-<audio src="http://www.cgan.com.hk/big/wp-content/themes/cganself/MP3/145.mp3" class="music-audio" controls="controls" id="audio" loop="loop" controlslist="nodownload"></audio>
 
 - 你覺得為了可能的預料外的事件，一個家庭應該要有多少的存款才夠？
 - 為什麼低薪的人難以翻身？
@@ -79,5 +73,5 @@ tags: 小孩週報
 
 ## 一句話
 
-> 時間就象海綿裡的水一樣，只要你願意擠，總還是有的。  ― 魯迅
+> 時間就像海綿裡的水一樣，只要你願意擠，總還是有的。  ― 魯迅
 
